@@ -1,18 +1,34 @@
 ## INTRODUCTION 
 
-# Hi, I'm Ashish Mahavir Patil 👋
+   ###         Ashish Mahavir Patil
+- Mob      - +91 8928753885
+- Email    - Ashishpatil9073@gmail.com
+- Location - Pune,Maharashtra
 
-### About Me – Application Support Engineer with 3.7 years+ of experience in Application Support, IT Support, Cloud Support, and Production Support. Proficient in handling L1/L2 technical support, managing SQL databases (MS SQL, MySQL), and troubleshooting cloud platforms like AWS & Azure (basics). Skilled in ServiceNow, JIRA, Incident & SLA Management, and collaborating with cross-functional global teams for root cause analysis and issue resolution. Adept at network troubleshooting (VPN, LAN/WAN), scripting with PL/SQL and Python (beginner), and providing support for SQL-based applications. Consistently maintained 99%+ SLA compliance while handling 20+ tickets per week across multiple environments. Key Skills: Application Support | Cloud Support | IT Support | SQL | ServiceNow | JIRA | VPN | SLA Management | Incident & Problem Management | Root Cause Analysis | Cloud Basics (AWS, Azure) Looking for: Opportunities in Application Support, Cloud/IT Support, or Product Support roles in an organization.
-
+## About Me – 
+Support & Monitoring Engineer with 4 years of hands-on experience in managing enterprise
+applications, cloud support, SQL troubleshooting, and L1/L2 technical support.
 
 ## 📄 Resume & Cover Letter
-[AshishPatil_Resume.pdf](https://github.com/user-attachments/files/21477357/AshishPatil_Resume.pdf)
+
+[Ashish_m_Patil.pdf](https://github.com/user-attachments/files/22391988/Ashish_m_Patil.pdf)
 
 ## 📎 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ashish-patil-4a5789281/)
 
 
-## 🛠 Featured Projects
+## 🛠 Education
+- ( B.Tech ) Computer Science & Engineer
+Ashokrao Mane Group of Institution, Kolhapur, Maharashtra - 
+Passing with first class
+- 12th HSC
+Shri Vijaysinh Yadav Arts & Science College - 
+Passing with first class
+- 10th SSC
+Nagaon High School - 
+Passing with first class
+
+## Projects
 - Learning Management System
     UG - (B.Tech) in Computer Science Engineering 
     Client - Ashokrao Mane Group of Institutions(AMGOI)
@@ -20,6 +36,18 @@
     This project is based on Student and college data Collection with using SQL, Java, pHp, HTML5, python, Appache server, Bootstrap.
 
 ## 🗂 Skills & Tools
-SQL Server · MySQL · PL/SQL · Python · ServiceNow · SLA & Incident Mgmt · AWS/Azure FUNDAMENTALS · JIRA · Office 365 · VPN, LAN/WAN · MONITORING
+Support Engineer with 4 years of hands-on experience in managing enterprise
+applications, cloud support, SQL troubleshooting, and L1/L2 technical support.
+Proven expertise in incident management, SLA tracking, root cause analysis
+(RCA), and cross-team collaboration. Skilled in SQL Server, MySQL, PL/SQL,
+and tools like ServiceNow, JIRA, APM Tools. Exposure to AWS & Azure cloud
+platforms, basic scripting in Python, and network-level troubleshooting (VPN,
+LAN/WAN). Capable of handling 20+ weekly tickets with 99% SLA compliance
+and shift-based reporting. 
+Looking for challenging roles in Associate Consultant, Cloud Ops, SQL DBA domains, SRE, Application Support, IT Support, Production
+Support L1/L2.
+
+## Certifications
+Cloud Computing & DevOps - Intellipaat | September 2023
 
 
