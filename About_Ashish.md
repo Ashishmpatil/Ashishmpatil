@@ -10,7 +10,7 @@ Support & Monitoring Engineer with 4 years of hands-on experience in managing en
 applications, cloud support, SQL troubleshooting, and L1/L2 technical support.
 
 ## 📄 Resume & Cover Letter
-[Ashish_Mahavir_Patil.docx](https://github.com/user-attachments/files/22393470/Ashish_Mahavir_Patil.docx)
+[Ashish_Mahavir_Patil.pdf](https://github.com/user-attachments/files/22393611/Ashish_Mahavir_Patil.pdf)
 
 ## 📎 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/ashish-patil-4a5789281/)
