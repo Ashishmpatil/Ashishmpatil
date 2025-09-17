@@ -47,6 +47,6 @@ Looking for challenging roles in Associate Consultant, Cloud Ops, SQL DBA domain
 Support L1/L2.
 
 ## Certifications
-Cloud Computing & DevOps - Intellipaat | September 2023
-PL/SQL - Udemy | Jan 2025
+- Cloud Computing & DevOps - Intellipaat | September 2023
+- PL/SQL - Udemy | Jan 2025
 
