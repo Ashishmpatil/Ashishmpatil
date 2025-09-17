@@ -48,5 +48,5 @@ Support L1/L2.
 
 ## Certifications
 Cloud Computing & DevOps - Intellipaat | September 2023
-
+PL/SQL - Udemy | Jan 2025
 
